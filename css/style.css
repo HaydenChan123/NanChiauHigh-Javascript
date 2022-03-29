@@ -1,0 +1,33 @@
+body {
+    background-color: lightcoral;
+}
+
+.jumbotron {
+    background-color: deepskyblue;
+}
+
+.jumbotron h1 {
+    font-size: 6vw;
+}
+
+.jumbotron p {
+    font-size: 2vw;
+}
+
+.body-container {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+
+#search-bar {
+    width: 40vw;
+}
+
+.card img {
+    height: 200px;
+    width: 150px;
+}
+.card h2 {
+    text-transform: capitalize;
+}
